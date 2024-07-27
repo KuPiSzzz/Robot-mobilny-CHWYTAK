@@ -22,8 +22,8 @@ Projekt CHWYTAK to robot mobilny zaprojektowany do operacji chwytających w waru
 ## Sterowanie
 Robot jest sterowany za pomocą pada poprzez połączenie Bluetooth. Użycie modułu Bluetooth HC-05 umożliwia bezprzewodową komunikację i sterowanie robotem, co zwiększa jego mobilność i elastyczność.
 
-## Autor
-Jakub Kisielewski
+## Autorzy
+Jakub Kisielewski && Michał Dziekoński
 
 ## Kontakt
 Jakub Kisielewski - [kupisz2013@gmail.com]
