@@ -26,4 +26,4 @@ Robot jest sterowany za pomocą pada poprzez połączenie Bluetooth. Użycie mod
 Jakub Kisielewski && Michał Dziekoński
 
 ## Kontakt
-Jakub Kisielewski - [kupisz2013@gmail.com]
+Jakub Jarosław Kisielewski - [kupisz2013@gmail.com]
